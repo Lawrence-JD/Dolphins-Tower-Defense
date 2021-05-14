@@ -1,0 +1,43 @@
+//LAYOUT// 
+//Top Left is (0,0)// '+' for path ' ' for tile // Why is the top left (0,0)? I don't know...
+0----------------0
+|             +  |0
+|  ++++++++   +  |1
+|  +      +   +  |2
+|  +      +   +  |3
+|  +   ++++   +  |4
+|  +   +      +  |5
+|  +   +      +  |6
+|  +   ++++++++  |7
+|  +             |8
+|  +             |9
+|  ++++++++++++  |A
+|             +  |B
+|             +  |C
+|   +++++++++++  |D
+|   +            |E
+|   +            |F
+0----------------0
+ 0123456789ABCDEF
+//BREAKABLES//
+//END//
+//TOWERS//
+//END//
+//PLAYER_NUMBERS// HEALTH--MONEY--WAVE_NUM
+100
+10000
+0
+//END//
+//RESEARCH_LIST//
+1|BASE
+1|RAPID
+1|RAPID_2
+1|RAPID_3
+0|SLOW
+0|SLOW_2
+0|SLOW_3
+//END//
+//RESEARCH_TIME//
+NONE
+0
+//END//
